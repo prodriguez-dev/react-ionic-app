@@ -1,3 +1,3 @@
 # react-ionic-app
 
-## New App that I'm testing
+## React and Ionic 4 Application
